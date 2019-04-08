@@ -52,5 +52,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void TestUpLoad(){
         int i = 1+1;
+
+        int ii = 2+2;
+
+        int iii = i+ii;
     }
 }
